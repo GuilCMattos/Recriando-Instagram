@@ -14,7 +14,7 @@ O desafio desse projeto era refazer o layout da página de login do instagram.
 
 <p align="center">  
 
-<img width="470" src="images/readme.png">
+<img width="600" src="images/readme.png">
 
 </p>
 
